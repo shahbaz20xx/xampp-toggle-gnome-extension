@@ -1,8 +1,9 @@
 {
   "uuid": "xampp-toggle@chshahaz108@gmail.com",
   "name": "XAMPP Toggle",
-  "description": "Toggle XAMPP server on/off from the Quick Settings menu",
+  "description": "Toggle XAMPP server on/off from the Quick Settings menu without entering password",
   "shell-version": [ "48" ],
   "original-authors": "chshahaz108@gmail.com",
-  "version": 1
+  "version": 1,
+  "url": "https://github.com/shahbaz20xx/xampp-toggle-gnome-extension"
 }
