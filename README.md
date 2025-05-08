@@ -3,6 +3,9 @@
 
 Toggle XAMPP server on/off from the Quick Settings menu without entering password
 
+![Xampp Server On](screenshots/xampp-on.png)
+![Xampp Server Off](screenshots/xampp-off.png)
+
 ### Install
 
 #### Prerequisite
