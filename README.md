@@ -7,8 +7,7 @@ Toggle XAMPP server on/off from the Quick Settings menu without entering passwor
 
 #### Prerequisite
 
-- Install XAMPP  
-- (Optional) Configure passwordless `sudo` access for XAMPP commands
+- Install XAMPP 
 
 #### Using GNOME Extensions website
 
